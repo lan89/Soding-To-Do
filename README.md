@@ -7,6 +7,7 @@ Soding To-Do Assigments. Build with Codeigniter 3, SQLite 3 & Bootstrap.
 > $config['base_url'] = 'http://localhost/soding_todo/';
 
 ps; database SQLite in applications/database/data.db
+
 3. Open in browser http://localhost/soding_todo/
 
 ### Lists
